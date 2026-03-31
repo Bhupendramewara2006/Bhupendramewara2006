@@ -1,4 +1,3 @@
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=28&duration=1500&pause=600&color=00FF00&vCenter=true&width=650&lines=Loading+profile...;I%27am+Bhupendra!" />
 
 # About Me:
 
