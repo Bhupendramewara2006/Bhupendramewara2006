@@ -1,20 +1,20 @@
 
 # About Me:
 
-$ Name  
+> Name  
 Bhupendra | 25MEI10067  
 
-$ Branch  
+> Branch  
 M.Tech Cyber Security  
 (VIT Bhopal University)  
 
-$ Year  
+> Year  
 1st Year  
 
-$ Learning  
+> Learning  
 Programming & Digital Skills  
 
-$ Interests  
+> Interests  
 Digital Forensics | Cyber Security | Coding | Tech  
 
 
